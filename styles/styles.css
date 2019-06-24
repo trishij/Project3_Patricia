@@ -1,0 +1,162 @@
+body {
+    background-color: cornflowerblue;
+    background-size: auto;
+}
+
+
+header {
+
+
+    width: 50%;
+    border: 1px black dotted;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    background-color: aliceblue;
+}
+
+
+header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+header li {
+    float: left;
+}
+
+header li a {
+    display: block;
+    padding: 6px;
+
+}
+
+
+/*Body and Main Styles*/
+
+
+main {
+    background-color: aliceblue;
+}
+
+
+
+
+/*Contact Page Styles*/
+
+#contactstyle {
+    font-size: 32px;
+    font-family: cursive
+}
+
+/*Contact Page Styles END*/
+
+
+.footer {
+
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gold;
+    text-align: center;
+}
+
+.footer p {
+    font-family: cursive
+}
+
+/*Text Style START*/
+
+header h1 {
+    color: chocolate;
+    font-family: Georgia, serif;
+    font-size: 72px;
+
+}
+
+main h1 {
+    color: chocolate;
+    font-family: cursive;
+    font-size: 48px;
+}
+
+p {
+    font-size: 24px;
+    font-family: cursive;
+    color: chocolate;
+
+}
+
+#contactstyle {
+    font-family: cursive;
+    font-size: 36px;
+    color: chocolate;
+}
+
+main ul {
+    color: darkblue;
+    font-family: cursive;
+    font-size: 24px;
+    
+}
+
+
+
+
+header li {
+    border-style: none;
+}
+
+header a {
+
+    font-size: 36px;
+    font-family: "Arial", sans-serif;
+    color: cornflowerblue;
+}
+
+
+
+
+
+
+/* Text Style END*/
+
+/* Image Styles START */
+
+#aboutmecaption {
+text-align: center;
+}
+
+
+
+
+
+
+/* Anchor Pseudo Classes */
+
+a:link {
+    color: cornflowerblue;
+}
+
+a:visited {
+    color: goldenrod;
+
+}
+
+a:hover {
+    color: fuchsia;
+
+}
+
+a:active {
+    color: crimson;
+}
+
+
+
+
+
+
+
